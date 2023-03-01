@@ -1,4 +1,4 @@
-Users are not allowed to terminate/Close the Command Prompt running the backup on log on and are required to wait for backup script to finish. The Command prompt will automatically close when done.
+Users are not allowed to terminate/Close the Command Prompt running the backup script on log on and are required to wait for backup script to finish. The Command prompt will automatically close when done.
 
 Users are recommended to backup files every week using the software provided to back up files.
 
