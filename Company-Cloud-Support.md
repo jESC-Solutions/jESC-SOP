@@ -2,15 +2,15 @@
 
 ## Company Cloud Support
 
-#### Purpose:
+### Purpose:
 Support company collaboration and data availability through cloud services.
 
 
-#### Context:
+### Context:
 In the case that you may find problems understanding your Google Workspace, follow the guidelines below for assistance.
 
 
-#### Getting familiar with your virtual workspace:
+### Getting familiar with your virtual workspace:
 1. Follow these guidelines to understand your company cloud.
 2. Google Workspace is an online environment for your documentation and information gathering/sharing.
 3. Using the multitude of tools at your disposal you may: Share a spreadsheet with Sheets, create a presentation in Slides, jot down documentation in Docs, or create a form using Forms.
