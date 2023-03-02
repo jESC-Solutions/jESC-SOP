@@ -20,7 +20,10 @@ Backing up files using AOMEI Backupper
 5. If qualified personnel cannot accomplish restoring files using the given software, the qualified personnel shall contact the service provider.
 6. A backup script will be running on the computer system log on and the user is required to wait for the script to be complete/finished. This script will create a copy of the backup file to the server. The script will close automatically when done.
 
-
+<br />
+<br />
+<br />
+<br />
 
 
 ## Antivirus & Loss Preventions
