@@ -32,9 +32,7 @@
 [Remote support engagement](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Remote-Troubleshooting.md)
 
 - How will you secure Windows 10 endpoint workstations from data loss and malware threats?
-[Network and security](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Network-and-Security.md)
-
-- How will you secure Windows 10 endpoint workstations from data loss and malware threats?
+- [Backup & restoration](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Backup.md)
 
 - How will you administer and support Windows systems?
 [Windows Support](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Windows-Support.md)
