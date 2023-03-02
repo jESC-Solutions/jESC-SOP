@@ -12,25 +12,33 @@
 
 
 
-How will you backup and restore user data, critical infrastructure configurations and hosted data?
+- How will you backup and restore user data, critical infrastructure configurations and hosted data?
+[Backup & restoration](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Backup.md)
 
-How will you securely dispose of sensitive data from storage media?
+- How will you securely dispose of sensitive data from storage media?
+[Disposal of sensitive data](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Sensitive-Data-Disposal.md)
 
-How will you perform the support engagements/interactions?
+- How will you perform the support engagements/interactions?
 
-What troubleshooting methodology will your technicians follow during support engagements?
+- What troubleshooting methodology will your technicians follow during support engagements?
 
-How will user or department technology purchase requests be handled?
+- How will user or department technology purchase requests be handled?
+[Purchase Requests](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Purchase-Requests.md)
 
-How will technology needs be handled for employees being onboarded? & How will technology needs be handled for employees being terminated?
-[Employee onboarding and termination]()
+- How will technology needs be handled for employees being onboarded? & How will technology needs be handled for employees being terminated?
+[Employee onboarding and termination](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Manage-Local-User-Accounts.md)
 
-How will remote, offsite support engagements take place?
+- How will remote, offsite support engagements take place?
+[Remote support engagement](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Remote-Troubleshooting.md)
 
-How will you secure Windows 10 endpoint workstations from data loss and malware threats?
+- How will you secure Windows 10 endpoint workstations from data loss and malware threats?
+[Network and security](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Network-and-Security.md)
 
-How will you administer and support Windows systems?
+- How will you secure Windows 10 endpoint workstations from data loss and malware threats?
 
-How will your company enhance the network’s usability and security?
+- How will you administer and support Windows systems?
 
-How will you support company cloud services?
+- How will your company enhance the network’s usability and security?
+
+- How will you support company cloud services?
+
