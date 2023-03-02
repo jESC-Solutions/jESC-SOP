@@ -20,7 +20,7 @@
 
 - How will you perform the support engagements/interactions?
 
-- What troubleshooting methodology will your technicians follow during support engagements?
+- What troubleshooting methodology will your technicians follow during support engagements? & How will remote, offsite support engagements take place?
 [Remote Troubleshooting](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Remote-Troubleshooting.md)
 
 - How will user or department technology purchase requests be handled?
@@ -29,11 +29,8 @@
 - How will technology needs be handled for employees being onboarded? & How will technology needs be handled for employees being terminated?
 [Employee onboarding and termination](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Manage-Local-User-Accounts.md)
 
-- How will remote, offsite support engagements take place?
-[Remote support engagement](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Remote-Troubleshooting.md)
-
 - How will you secure Windows 10 endpoint workstations from data loss and malware threats?
-[Backup & restoration](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Backup.md)
+- [Backup & restoration](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Backup.md)
 
 - How will you administer and support Windows systems?
 [Windows Support](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Windows-Support.md)
