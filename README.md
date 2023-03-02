@@ -37,6 +37,7 @@
 - How will you secure Windows 10 endpoint workstations from data loss and malware threats?
 
 - How will you administer and support Windows systems?
+[Windows Support](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Windows-Support.md)
 
 - How will your company enhance the network’s usability and security?
 
