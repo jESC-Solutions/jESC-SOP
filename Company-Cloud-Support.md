@@ -17,6 +17,13 @@ In the case that you may find problems understanding your Google Workspace, foll
 4. Should Google Workspace be missing the kind of tool you need, you may look to connect or add more tools to your Workspace/Drive.
 5. In any of your endeavors should you need to share, Google makes it easy by adding a big “Share” button. You may change permissions, add individuals directly, or share a link to any work for others to use and access said work. This makes sharing quick and easy.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-
-Emilio Ceja
+*Author: Emilio Ceja; Revision: 01 Mar 2023*
