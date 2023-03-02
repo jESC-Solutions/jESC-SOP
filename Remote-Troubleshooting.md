@@ -2,15 +2,15 @@
 
 ## Remote Troubleshooting
 
-#### Purpose:
+### Purpose:
 Troubleshooting methodology and Support Engagements.
 
 
-#### Context:
+### Context:
 Should you find a problem on your PC’s Desktop or System you may read the guidelines below to request assistance.
 
 
-#### How to ask for help:
+### How to ask for help:
 Follow these instructions to get Remote Help for your PC.
 1. Contact a service assistant and explain to them your problem.
 2. Go to your desktop and double click the “Teamviewer” shortcut.
