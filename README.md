@@ -21,6 +21,7 @@
 - How will you perform the support engagements/interactions?
 
 - What troubleshooting methodology will your technicians follow during support engagements?
+[Remote Troubleshooting](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Remote-Troubleshooting.md)
 
 - How will user or department technology purchase requests be handled?
 [Purchase Requests](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Purchase-Requests.md)
