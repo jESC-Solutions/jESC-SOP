@@ -40,6 +40,7 @@
 [Windows Support](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Windows-Support.md)
 
 - How will your company enhance the network’s usability and security?
+[Network and security](https://github.com/jESC-Solutions/jESC-SOP/blob/main/Network-and-Security.md)
 
 - How will you support company cloud services?
 
