@@ -46,3 +46,15 @@ Use of default windows anti virus protection and using AOMEI Backupper to restor
 4. If no personnel qualified to use AOMEI Backupper software, the client must call the service provider to initiate data recovery.
 5. To avoid confusion, the client must call the service provider to help with the recovery process.
 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+*Author: ; Revision: 01 Mar 2023*
+
