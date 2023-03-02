@@ -22,9 +22,8 @@ What troubleshooting methodology will your technicians follow during support eng
 
 How will user or department technology purchase requests be handled?
 
-How will technology needs be handled for employees being onboarded?
-
-How will technology needs be handled for employees being terminated?
+How will technology needs be handled for employees being onboarded? & How will technology needs be handled for employees being terminated?
+[Employee onboarding and termination]()
 
 How will remote, offsite support engagements take place?
 
