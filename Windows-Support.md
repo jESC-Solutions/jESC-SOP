@@ -16,3 +16,13 @@ Steps to maintain Windows OS updates.
 2. Manually checking for updates, follows the above process, and is required at the beginning of each work week. 
 3. If any other issues arise, contact a service assistant and explain any issues. 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+*Author: ; Revision: 01 Mar 2023*
